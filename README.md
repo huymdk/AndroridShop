@@ -212,36 +212,14 @@ Thực hiện các bước sau để cài đặt và chạy dự án trên máy 
 
 Mở terminal tại thư mục gốc của dự án Flutter và chạy lệnh:
 
-````bash
+`````bash
 flutter pub get
-
+```
 Lệnh này sẽ tải về tất cả các package (thư viện) đã được khai báo trong file pubspec.yaml.
 
-### Bước 6: Lấy Dependencies (Các Gói Cần Thiết)
+Bước 6: Chạy Ứng Dụng
 
-#### Chuẩn bị Thiết bị/Emulator
-
-Bạn có thể chọn một trong các tùy chọn sau để chạy ứng dụng Flutter:
-
-- **Android Emulator**: Mở thông qua Android Studio AVD Manager.
-- **iOS Simulator**: (Chỉ dành cho macOS có cài Xcode).
-- **Thiết bị thật**:
-  - **Android**: Kết nối với máy tính và bật **USB Debugging**.
-  - **iOS**: Kết nối và chọn "Trust this computer" khi được yêu cầu.
-- **Trình duyệt Web**: Chọn `Chrome (web)` hoặc `Edge (web)` nếu bạn muốn chạy phiên bản web.
-
-#### Chạy Ứng Dụng từ IDE
-
-Sử dụng Android Studio hoặc VS Code:
-
-1. Chọn thiết bị đích từ danh sách thiết bị có sẵn.
-2. Nhấn nút **Run** (biểu tượng tam giác màu xanh lá cây).
-
-#### Chạy Ứng Dụng từ Terminal
-
-1. Mở terminal tại thư mục gốc của dự án Flutter.
-2. Chạy lệnh sau:
-
-```bash
+````bash
 flutter run
-````
+```
+`````
