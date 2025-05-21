@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "176585647678",
+    "project_id": "shopthuongmai-5c07f",
+    "storage_bucket": "shopthuongmai-5c07f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176585647678:android:890b945fc4c6d39fa2d36f",
+        "android_client_info": {
+          "package_name": "com.example.thuongmaidientu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176585647678-luubgkbjb7d072ugflrvojrqebjb2tel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTAEw7lgFNTdCWxQONEA36YTuhzJhfiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176585647678-luubgkbjb7d072ugflrvojrqebjb2tel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176585647678-0q47dinqq3ldae94vulagsapqplhrjuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thuongmaidientu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
